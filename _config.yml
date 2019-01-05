@@ -2,7 +2,7 @@
 
 # Website settings
 title: Landmarks19
-description: The Official Site of CVPR 2019 Workshop, Large-Scale Landmark Recognition, A Challenge
+description: The Official Site of CVPR 2019 Workshop, The 2nd Landmark Recognition Workshop
 keywords: Landmarks, Recognition, CVPR, CVPRW 
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://landmarksworkshop.github.io/CVPRW2019  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -22,10 +22,7 @@ author:  # change following line to your infomation.
   email: LandmarksWorkshop@gmail.com  # Leave blank if you don't have now
   #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  desc: This workshop fosters research on image retrieval and landmark recognition by introducing a novel large-scale dataset, together with evaluation protocols.
-
-#More details of the challange and the dataset can be found <a href="https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html" target="_blank"><span class="navy"> here </span></a>  
-
+  desc: This workshop fosters research on image retrieval and landmark recognition by introducing a novel large-scale dataset, together with evaluation protocols.  <a href="https://landmarksworkshop.github.io/CVPRW2018" target="_blank"><span class="navy"> Our 1st workshop </span></a> is held in CVPR 2018. 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: LandmarksCVPRW19
