@@ -1,0 +1,110 @@
+# schedules section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Workshop Program TBD
+  desc:
+    detail:
+    link: 
+    date:
+    detail: 
+  icon: fa-bullhorn 
+
+  #- name:
+  #    detail: Dataset Overview
+  #  desc:
+  #    detail: Tobias Weyand
+  #    link: https://drive.google.com/open?id=14SaWRyVBNism4LOE9J_oXG39NEmtRbNX
+  #  date:
+  #    detail: 13:40 - 13:50, MDT
+  #  icon: fa-database 
+  #
+  #- name:
+  #    detail: Invited Talk 1
+  #  desc:
+  #    detail: Josef Sivic (INRIA / CTU) (Hosted by Ondra Chum)
+  #    title: Learnable Representations for Estimating Visual Correspondence
+  #  date:
+  #    detail: 13:50 - 14:30, MDT
+  #  icon: fa-microphone 
+  #
+  #- name:
+  #    detail: Challenge Overview
+  #  desc:
+  #    detail: Andre Araujo and Tobias Weyand
+  #    link: https://drive.google.com/open?id=1-ne0FRkLR_xvM0olGXsZzcy6UmKYAC7c
+  #  date:
+  #    detail: 14:30 - 14:50, MDT
+  #  icon: fa-institution 
+  #
+  #  #- name:
+  #  #    detail: Recognition Challenge Winner Presentations 	
+  #  #  desc:
+  #  #    detail: Sirius, VRG Prage and Kohei (Hosted by Torsten Sattler)
+  #  #  date:
+  #  #    detail: 14:50 - 15:30, MDT
+  #  #  icon: fa-comments 
+  #- name:
+  #    detail: Recognition Challenge Winner Presentations 	
+  #  desc:
+  #    group1: Sirius
+  #    link1: https://drive.google.com/open?id=1rEAphWzeg94jcP6dPc2KDSGlmPxnuZ0e 
+  #    group2: VRG Prage
+  #    link2: https://drive.google.com/open?id=1NFhfkqKjo_bXM-yuI3KbZt_iHRmiUyTG
+  #    group3: Kohei
+  #    link3: https://drive.google.com/open?id=1wlyLUiiUiEt4v9Yv8ZyAQvm9l81im4MV
+  #    host: Torsten Sattler
+  #  date:
+  #    detail: 14:50 - 15:30, MDT
+  #  icon: fa-comments 
+  #
+  #- name:
+  #    detail: Coffee Break	
+  #  desc:
+  #    detail: 
+  #  date:
+  #    detail: 15:30 - 16:00, MDT
+  #  icon: fa-coffee 
+  #
+  #  #- name:
+  #  #    detail: Retrieval Challenge Winner Presentations		
+  #  #  desc:
+  #  #    detail: CVSSP & Visual Atoms, Layer 6 AI, and SevenSpace (Hosted by Jack Sim)
+  #  #  date:
+  #  #    detail: 16:00 - 16:40, MDT
+  #  #  icon: fa-comments
+  #
+  #- name:
+  #    detail: Retrieval Challenge Winner Presentations 	
+  #  desc:
+  #    group1: CVSSP & Visual Atoms
+  #    group2: Layer 6 AI
+  #    link2: https://drive.google.com/open?id=1MhaaCAICiL3_DA7m9gBEHLL9XxEycyUs
+  #    group3: SevenSpace
+  #    host: Jack Sim
+  #  date:
+  #    detail: 16:00 - 16:40, MDT
+  #  icon: fa-comments 
+  #
+  #- name:
+  #    detail: Invited Talk 2
+  #  desc:
+  #    detail: Herve Jegou (FAIR) (Hosted by Ondra Chum)
+  #    title: Trends in Large-Scale Similarity Search
+  #  date:
+  #    detail: 16:40 - 17:20, MDT
+  #  icon: fa-microphone 
+  #
+  #- name:
+  #    detail: Close Remark
+  #  desc:
+  #    detail: Tobias Weyand
+  #    link: https://drive.google.com/open?id=1DsydT3P23Z8eWxw7l46JL0RkigmQha8o
+  #  date:
+  #    detail: 17:20 - 17:30, MDT
+  #  icon: fa-signing 
+  #
+  #- name:
+  #    detail: Challenge Participant Slides 
+  #  desc:
+  #    link: https://drive.google.com/open?id=12Zb0NZL3Ys6SPLiAvCroW5w3gZIYCB2X
+  #  icon: fa-book 

@@ -1,0 +1,21 @@
+# speaker section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+#
+
+- name: Noah Snavely
+  i18n: Noah
+  img: /static/assets/img/landing/Noah-Snavely.jpg
+  desc: Associate Professor in the Computer Science Department at Cornell Tech
+  title: TBD
+  abstract: 
+
+- name: Krystian Mikolajczyk
+  i18n: Krystian
+  img: /static/assets/img/landing/Krystian-Mikolajczyk.jpg
+  desc: Associate Professor at Imperial College London
+  title: TBD
+  abstract:
+
+
+

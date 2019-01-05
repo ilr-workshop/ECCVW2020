@@ -1,0 +1,54 @@
+# links section data
+- last_name: Bohyung
+  first_name: Han
+  desc: Associate Professor, Seoul National University (Primary Contact)
+  website: http://cvlab.postech.ac.kr/~bhhan 
+  email: bhhan@snu.ac.kr
+
+- last_name: Andre
+  first_name: Araujo
+  desc: Software Engineer, Google (Primary Contact)
+  website: https://andrefaraujo.github.io
+  email: andrearaujo@google.com
+
+- last_name: Shih-Fu
+  first_name: Chang
+  desc: Professor, Columbia University
+  website: http://www.ee.columbia.edu/~sfchang/
+  email: shih.fu.chang@columbia.edu
+
+- last_name: Ondrej
+  first_name: Chum
+  desc: Associate Professor, Czech Technical University
+  website: http://cmp.felk.cvut.cz/~chum/
+  email: chum@cmp.felk.cvut.cz
+
+- last_name: Torsten
+  first_name: Sattler
+  desc: Senior Researcher, ETH
+  website: http://people.inf.ethz.ch/sattlert/ 
+  email: sattlert@inf.ethz.ch
+
+- last_name: Jack
+  first_name: Sim
+  desc: Software Engineer, Google
+  website: 
+  email: jacksim@google.com
+
+- last_name: Giorgos
+  first_name: Tolias
+  desc: Postdoc, Czech Technical University
+  website: http://cmp.felk.cvut.cz/~toliageo/
+  email: giorgos.tolias@cmp.felk.cvut.cz
+
+- last_name: Tobias 
+  first_name: Weyand
+  desc: Software Engineer, Google
+  website: 
+  email: weyand@google.com
+
+- last_name: Xu 
+  first_name: Zhang
+  desc: Postdoc, Columbia University
+  website: 
+  email: xu.zhang@columbia.edu
