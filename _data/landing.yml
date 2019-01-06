@@ -30,8 +30,8 @@
   tpl: speaker.html
   css: speaker
 
-- id: Organizer 
+- id: Organizers
   i18n: nav.organizer
-  name: organizer
+  name: organizers
   tpl: organizer.html
   css: contact
