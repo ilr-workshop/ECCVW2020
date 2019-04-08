@@ -6,8 +6,57 @@
   desc:
     detail: Challenge is held on Kaggle 
   date:
-    detail: TBD
+    detail: Apr. 8 2019
   icon: fa-check-circle
+
+- name:
+    detail: Registration and Team Merging Deadline
+  desc:
+    detail: Last day for registration as well as team merging
+  date:
+    detail: May 27 2019
+  icon: fa-calendar
+
+- name:
+    detail: Stage 1 Submission Deadline
+  desc:
+    detail: Dry-run result submission
+  date:
+    detail: May 27 2019
+  icon: fa-calendar
+
+- name:
+    detail: Stage 2 begins. 
+  desc:
+    detail: New test set uploaded
+  date:
+    detail: May 28 2019
+  icon: fa-calendar
+
+- name:
+    detail: Final Submission Deadline
+  desc:
+    detail: 
+  date:
+    detail: Jun. 3 2019
+  icon: fa-calendar
+
+- name:
+    detail: Technical Report Submission Deadline
+  desc:
+    detail: Winners will be required to provide a detailed description of their method
+  date:
+    detail: Jun. 10 2019
+  icon: fa-calendar
+
+- name:
+    detail: Workshop
+  desc:
+      detail: Held with CVPR’19
+  date:
+      detail: Jun. 16 2019, 8:30 - 12:30, PDT
+  icon: fa-calendar
+  #
 
   #- name:
   #    detail: Challenge Deadline 

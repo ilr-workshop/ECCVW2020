@@ -5,10 +5,10 @@
   i18n: Recognition
   img: /static/assets/img/landing/recognition.png
   desc: Label famous (and not-so-famous) landmarks in image.
-  #url: https://www.kaggle.com/c/landmark-recognition-challenge
+  url: https://www.kaggle.com/c/landmark-recognition-2019
 
 - name: Retrieval Challenge
   i18n: Retrieval
   img: /static/assets/img/landing/retrieval.png
   desc: Given an image, can you find all of the same landmarks in a dataset?
-  #url: https://www.kaggle.com/c/landmark-retrieval-challenge
+  url: https://www.kaggle.com/c/landmark-retrieval-2019
