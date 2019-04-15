@@ -7,12 +7,7 @@
     </div>
     <div class="row">
     {% for organizer in site.data.index.organizer %}
-        {% assign loopindex = forloop.index | modulo: 4 %}
-        {% if forloop.last %}
-        <div class="col-sm-4 wow {% if loopindex != 0 %} col-sm-offset-1 fadeInRight {% else %} zoomIn {% endif %}">
-        {% else %}
-        <div class="col-sm-3 wow {% if loopindex == 1 %} fadeInLeft {% else if loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
-        {% endif %}
+        <div class="col-sm-2 wow {% if loopindex == 1 %} fadeInLeft {% else if loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
         <div class="team-member">
             <h4><span class="navy">{{ organizer.last_name }}</span> {{ organizer.first_name }}</h4>
             <p>{{ organizer.desc }}</p>
