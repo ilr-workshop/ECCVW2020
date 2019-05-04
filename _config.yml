@@ -22,7 +22,7 @@ author:  # change following line to your infomation.
   email: LandmarksWorkshop@gmail.com  # Leave blank if you don't have now
   #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  desc: This workshop fosters research on image retrieval and landmark recognition by introducing a novel large-scale dataset, together with evaluation protocols.  <a href="https://landmarksworkshop.github.io/CVPRW2018" target="_blank"><span class="navy"> Our 1st workshop </span></a> is held in CVPR 2018. 
+  desc: This workshop fosters research on image retrieval and landmark recognition by introducing a novel large-scale dataset, together with evaluation protocols. Here is a  <a href="https://ai.googleblog.com/2019/05/announcing-google-landmarks-v2-improved.html" target="_blank"><span class="navy"> Google AI blog </span></a> detailing the workshop and the challenge. <a href="https://landmarksworkshop.github.io/CVPRW2018" target="_blank"><span class="navy"> Our 1st workshop </span></a> is held in CVPR 2018. 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: LandmarksCVPRW19
