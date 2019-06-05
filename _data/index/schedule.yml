@@ -10,36 +10,12 @@
   icon: fa-check-circle
 
 - name:
-    detail: Registration and Team Merging Deadline
-  desc:
-    detail: Last day for registration as well as team merging
-  date:
-    detail: May 27 2019
-  icon: fa-calendar
-
-- name:
-    detail: Stage 1 Submission Deadline
-  desc:
-    detail: Dry-run result submission
-  date:
-    detail: May 27 2019
-  icon: fa-calendar
-
-- name:
-    detail: Stage 2 begins. 
-  desc:
-    detail: New test set uploaded
-  date:
-    detail: May 28 2019
-  icon: fa-calendar
-
-- name:
     detail: Final Submission Deadline
   desc:
     detail: 
   date:
     detail: Jun. 3 2019
-  icon: fa-calendar
+  icon: fa-check-circle
 
 - name:
     detail: Technical Report Submission Deadline
