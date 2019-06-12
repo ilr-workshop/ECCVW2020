@@ -7,15 +7,12 @@
   i18n: Noah
   img: /static/assets/img/landing/Noah-Snavely.jpg
   desc: Associate Professor at Cornell Tech
-  title: TBD
-  abstract: 
+  title: End-to-End Geometric Learning
+  abstract: One often hears that vision systems should be trained end-to-end using deep learning. This talk will explore this idea in the context of 3D geometry, presenting end-to-end methods for a number of tasks, including keypoint detection, pose estimation, and view synthesis. I will show how the use of geometric reasoning as an end goal of learning can enable emergent discovery of good keypoints, systems for predicting 3D shape from single images, and more, all without the use of explicit supervision. I will relate these ideas back to the landmark recognition problem.
 
 - name: Krystian Mikolajczyk
   i18n: Krystian
   img: /static/assets/img/landing/Krystian-Mikolajczyk.jpg
   desc: Associate Professor at Imperial College London
-  title: TBD
-  abstract:
-
-
-
+  title: Recent Progress and Remaining Challenges in Local Features
+  abstract: In many computer vision applications local image features and descriptors have been replaced by end-to-end learning based methods but still remain the preferred choice for estimating accurate 3D models in multiple view geometry, camera and object pose estimation, or efficient SLAM. Large benchmarks and synthetically generated  training data stimulated the progress in nearly all areas of computer vision including keypoint detection and description. I will present some recent works in this domain including new multi-task benchmarks for feature matching and localization, new methods for keypoint extraction and description, as well as for improving their efficiency.
