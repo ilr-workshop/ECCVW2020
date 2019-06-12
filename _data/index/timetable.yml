@@ -13,7 +13,7 @@
     detail: Invited Talk 1
   desc:
     detail: Noah Snavely (Cornell Tech / Google AI) 
-    title: TBD
+    title: End-to-End Geometric Learning
   date:
     detail: 8:55 - 9:30
   icon: fa-microphone 
@@ -75,7 +75,7 @@
     detail: Invited Talk 2
   desc:
     detail: Krystian Mikolajczyk (Imperial College London) 
-    title: TBD
+    title: Recent Progress and Remaining Challenges in Local Features
   date:
     detail: 11:50 - 12:25
   icon: fa-microphone 
