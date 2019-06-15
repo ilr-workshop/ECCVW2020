@@ -89,10 +89,14 @@
     detail: 12:25 - 12:35
   icon: fa-signing 
 
+- name:
+    detail: Recognition Challenge Participant Slides 
+  desc:
+    link: https://drive.google.com/open?id=14PdHtRBXE3DTYxu5fpoDtTZUTm0Z9MXr
+  icon: fa-book 
 
-  #
-  #- name:
-  #    detail: Challenge Participant Slides 
-  #  desc:
-  #    link: https://drive.google.com/open?id=12Zb0NZL3Ys6SPLiAvCroW5w3gZIYCB2X
-  #  icon: fa-book 
+- name:
+    detail: Retrieval Challenge Participant Slides 
+  desc:
+    link: https://drive.google.com/open?id=1sYwfX5pF-HJtuWEA01271eaxmcF2-pRd
+  icon: fa-book 
