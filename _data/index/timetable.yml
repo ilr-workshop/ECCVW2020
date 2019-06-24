@@ -4,7 +4,8 @@
     detail: Welcome Remarks
   desc:
     detail: 
-    link: 
+    link: https://drive.google.com/open?id=1VbNh9KnkrTRvsvzHo67N1piKIiLLnHyH
+    host: Andre Araujo  
   date:
     detail: 8:45 - 8:55
   icon: fa-microphone 
@@ -14,6 +15,7 @@
   desc:
     detail: Noah Snavely (Cornell Tech / Google AI) 
     title: End-to-End Geometric Learning
+    host: Jack Sim
   date:
     detail: 8:55 - 9:30
   icon: fa-microphone 
@@ -22,7 +24,8 @@
     detail: Dataset and Challenge Overview
   desc:
     detail: 
-    link: 
+    link: https://drive.google.com/open?id=1d-xOKHTedhUjk5rsNmIInhyRMCUJbPC7
+    host: Tobias Weyand and Bingyi Cao
   date:
     detail: 9:30 - 10:00
   icon: fa-institution 
@@ -52,6 +55,13 @@
 - name:
     detail: Recognition Challenge Winner Presentations 	
   desc:
+    group1: JL
+    link1: https://drive.google.com/open?id=1khwGjwNftTfJlzLYkyNh2wyU-X3FyCQ8 
+    group2: GLRunner
+    link2: https://drive.google.com/open?id=10CfSaRHRaJCBcq2qcofUyCOeJX0AqWsa
+    group3: smlyaka
+    link3: https://drive.google.com/open?id=14RVPAGy3KZY0TKP3T4lFyQVsEWrE7P-D
+    host: Bohyung Han
   date:
     detail: 10:30 - 11:10
   icon: fa-comments 
@@ -59,6 +69,13 @@
 - name:
     detail: Retrieval Challenge Winner Presentations 	
   desc:
+    group1: smlyaka
+    link1: https://drive.google.com/open?id=1Q6kamb3W4TAZRM-AKnUSsSa_eDkytIGu 
+    group2: imagesearch
+    link2: https://drive.google.com/open?id=16cWWCVxIKTzuuQge_c9ab8_ZUcXrnJtQ
+    group3: Layer 6 AI
+    link3: 
+    host: Xu Zhang 
   date:
     detail: 11:10 - 11:50
   icon: fa-comments 
@@ -92,11 +109,17 @@
 - name:
     detail: Recognition Challenge Participant Slides 
   desc:
-    link: https://drive.google.com/open?id=14PdHtRBXE3DTYxu5fpoDtTZUTm0Z9MXr
+    link: https://drive.google.com/open?id=1ThmNWKDuXiY2Hj3fldGuIEkCv2np0P2b
   icon: fa-book 
 
 - name:
     detail: Retrieval Challenge Participant Slides 
   desc:
-    link: https://drive.google.com/open?id=1sYwfX5pF-HJtuWEA01271eaxmcF2-pRd
+    link: https://drive.google.com/open?id=1QmC4UKRhIXNW-sa8jxV5b7I6QbPKvJsi
   icon: fa-book 
+
+- name:
+    detail: Workshop Photos 
+  desc:
+    link: https://drive.google.com/open?id=1ztVTs6oO7YBMItUmZYgYoCAIEvFwsmPR
+  icon: fa-camera 
