@@ -1,19 +1,19 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Landmarks19
-description: The Official Site of CVPR 2019 Workshop, The 2nd Landmark Recognition Workshop
-keywords: Landmarks, Recognition, CVPR, CVPRW 
+title: IRL2020 
+description: The Official Site of ECCV 2020 Workshop, Instance-Level Recognition Workshop
+keywords: Instance, Landmarks, Artworks, Products, ECCVW 
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://landmarksworkshop.github.io/CVPRW2019  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://landmarksworkshop.github.io/ECCVW2020  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /landmarksworkshop.github.io/CVPRW2019/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /landmarksworkshop.github.io/ECCVW2020/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: LandmarksCVPRW19   # Be used at blog posts' author.
+  name: IRL2020   # Be used at blog posts' author.
   first_name:   # Be used at index page about me section.
-  last_name: LandmarksCVPRW19  # Be used at index page about me section.
+  last_name: IRL2020  # Be used at index page about me section.
   #avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   #github_username: jarrekk  # Leave blank if you don't have now
   #linkedin_id: jarrekk # Leave blank if you don't have now
@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
   desc: This workshop fosters research on image retrieval and landmark recognition by introducing a novel large-scale dataset, together with evaluation protocols. Here is a  <a href="https://ai.googleblog.com/2019/05/announcing-google-landmarks-v2-improved.html" target="_blank"><span class="navy"> Google AI blog </span></a> detailing the workshop and the challenge. <a href="https://landmarksworkshop.github.io/CVPRW2018" target="_blank"><span class="navy"> Our 1st workshop </span></a> is held in CVPR 2018. 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: LandmarksCVPRW19
+  name: IRL2020
 
 # analytics
 ## google analytics
