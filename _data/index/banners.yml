@@ -2,8 +2,8 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/Long_Beach_CA_at_Day.jpg
-  title: Long Beach Day 
+- src: landing/artur-kraft-Bc7ICBzcWt0-unsplash.jpg
+  title: Photo by Artur Kraft on Unsplash 
 
-- src: landing/Long_Beach_CA_at_night.jpg
-  title: Long Beach Night
+- src: landing/kaitlyn-chow-OqEOK-w1MsE-unsplash.jpg
+  title: Photo by Kaitlyn Chow on Unsplash

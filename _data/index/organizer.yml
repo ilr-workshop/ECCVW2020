@@ -1,10 +1,4 @@
 # links section data
-- last_name: Bohyung
-  first_name: Han
-  desc: Associate Professor, Seoul National University (Primary Contact)
-  website: http://cvlab.postech.ac.kr/~bhhan 
-  email: bhhan@snu.ac.kr
-
 - last_name: Andre
   first_name: Araujo
   desc: Software Engineer, Google (Primary Contact)
@@ -17,23 +11,23 @@
   website: 
   email: bingyi@google.com
 
-- last_name: Shih-Fu
-  first_name: Chang
-  desc: Professor, Columbia University
-  website: http://www.ee.columbia.edu/~sfchang/
-  email: shih.fu.chang@columbia.edu
-
 - last_name: Ondrej
   first_name: Chum
   desc: Associate Professor, Czech Technical University
   website: http://cmp.felk.cvut.cz/~chum/
   email: chum@cmp.felk.cvut.cz
 
+- last_name: Bohyung
+  first_name: Han
+  desc: Associate Professor, Seoul National University 
+  website: http://cvlab.postech.ac.kr/~bhhan 
+  email: bhhan@snu.ac.kr
+
 - last_name: Torsten
   first_name: Sattler
   desc: Associate Professor, Chalmers University of Technology
-  website: http://people.inf.ethz.ch/sattlert/ 
-  email: sattlert@inf.ethz.ch
+  website: https://www.chalmers.se/en/Staff/Pages/torsat.aspx 
+  email: torsat@chalmers.se
 
 - last_name: Jack
   first_name: Sim
@@ -55,6 +49,6 @@
 
 - last_name: Xu 
   first_name: Zhang
-  desc: Postdoc, Columbia University
-  website: 
-  email: xu.zhang@columbia.edu
+  desc: Applied Scientist, Amazon Alexa
+  website: https://xu-zhang-1987.github.io/
+  email: xzhnamz@amazon.com 

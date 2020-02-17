@@ -2,29 +2,12 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: Challenge Begins
+    detail: TBD 
   desc:
-    detail: Challenge is held on Kaggle 
+    detail:  
   date:
-    detail: Apr. 8 2019
-  icon: fa-check-circle
-
-- name:
-    detail: Final Submission Deadline
-  desc:
     detail: 
-  date:
-    detail: Jun. 3 2019
   icon: fa-check-circle
-
-- name:
-    detail: Workshop
-  desc:
-      detail: Held with CVPR’19
-  date:
-      detail: Jun. 16 2019, 8:30 - 12:30, PDT
-  icon: fa-calendar
-  #
 
   #- name:
   #    detail: Challenge Deadline 
