@@ -1,19 +1,19 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: IRL2020 
+title: ILR2020 
 description: The Official Site of ECCV 2020 Workshop, Instance-Level Recognition Workshop
 keywords: Instance, Landmarks, Artworks, Products, ECCVW 
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://landmarksworkshop.github.io/ECCVW2020  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://ilr-workshop/ECCVW2020  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /landmarksworkshop.github.io/ECCVW2020/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /ilr-workshop/ECCVW2020/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: IRL2020   # Be used at blog posts' author.
+  name: ILR2020   # Be used at blog posts' author.
   first_name:   # Be used at index page about me section.
-  last_name: IRL2020  # Be used at index page about me section.
+  last_name: ILR2020  # Be used at index page about me section.
   #avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   #github_username: jarrekk  # Leave blank if you don't have now
   #linkedin_id: jarrekk # Leave blank if you don't have now
@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
   desc: Instance-Level Recognition Workshop is a follow-up of two successful editions of the Landmark Recognition Workshop at <a href="https://landmarksworkshop.github.io/CVPRW2018" target="_blank"><span class="navy"> CVPRW18 </span></a> and  <a href="https://landmarksworkshop.github.io/CVPRW2019" target="_blank"><span class="navy"> CVPRW19 </span></a> . While the previous editions focused solely on landmarks, the new Instance-Level Recognition workshop will consider three domains, artwork, landmarks and products.
 # comment
   disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: IRL2020
+  name: ILR2020
 
 # analytics
 ## google analytics
