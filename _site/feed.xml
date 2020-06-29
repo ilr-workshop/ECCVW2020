@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IRL2020</title>
+    <title>ILR2020</title>
     <description>The Official Site of ECCV 2020 Workshop, Instance-Level Recognition Workshop</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Feb 2020 22:15:44 -0500</pubDate>
-    <lastBuildDate>Sun, 16 Feb 2020 22:15:44 -0500</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2020 21:25:19 -0400</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2020 21:25:19 -0400</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -19,8 +19,8 @@
   &lt;li&gt;
     &lt;p&gt;Fork &lt;a href=&quot;https://github.com/jarrekk/Jalpc&quot;&gt;this project – Jalpc&lt;/a&gt; at &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. If you want to edit website at github, do it as following gif or clone forked repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git@github.com:github_username/Jalpc.git&lt;/code&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;!-- ![edit](/landmarksworkshop.github.io/ECCVW2020/static/assets/img/blog/3steps/edit.gif) --&gt;
- &lt;img src=&quot;/landmarksworkshop.github.io/ECCVW2020/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;!-- ![edit](/ilr-workshop/ECCVW2020/static/assets/img/blog/3steps/edit.gif) --&gt;
+ &lt;img src=&quot;/ilr-workshop/ECCVW2020/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Enter into repository directory and edit following file list:&lt;/p&gt;
