@@ -11,7 +11,7 @@
   i18n: Landmark_Retrieval
   img: /static/assets/img/landing/landmark_retrieval.png
   desc: Given an image, can you find all of the same landmarks in a dataset?
-  url: 
+  url: https://www.kaggle.com/c/landmark-retrieval-2020
 
 - name: Artwork Recognition Challenge
   i18n: Artwork_Recognition
