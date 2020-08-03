@@ -5,7 +5,7 @@
   i18n: Landmark_Recognition
   img: /static/assets/img/landing/landmark_recognition.png
   desc: Label landmarks in image.
-  url: 
+  url: https://www.kaggle.com/c/landmark-recognition-2020
 
 - name: Landmark Retrieval Challenge
   i18n: Landmark_Retrieval

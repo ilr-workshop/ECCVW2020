@@ -1,12 +1,93 @@
 # schedules section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: TBD 
+    detail: Welcome Remarks 
   desc:
-    detail: 
+    detail: Andre Araujo
     link: 
-    host:   
+    host: 
   date:
-    detail: 
+    detail: Aug 28, 14:00 - 14:15 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Invited Talk 1 
+  desc:
+    detail: Ping Luo (Associate Professor, University of Hong Kong)
+    title: Instance Detection, Segmentation, Landmark Estimation and Beyond
+    link: 
+    host: Jack Sim
+  date:
+    detail: Aug 28, 14:15 - 15:00 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Introduction to Landmark Retrieval Challenge  
+  desc:
+    detail: Tobias Weyand, Bingyi Cao and Cam Askew
+    link: 
+    host:
+  date:
+    detail: Aug 28, 15:00 - 15:15 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Landmark Retrieval Challenge Winner Presentations  
+  desc:
+    detail: TBD
+    link: 
+    host:
+  date:
+    detail: Aug 28, 15:15 - 16:00 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Invited Talk 2
+  desc:
+    detail: Diane Larlus (Senior Research Scientist, NAVER LABS Europe)
+    link: 
+    host: Ondrej Chum
+  date:
+    detail: Aug 29, 10:00 - 10:45 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Introduction to Landmark Recognition Challenge  
+  desc:
+    detail: Tobias Weyand, Bingyi Cao and Cam Askew
+    link: 
+    host: Tobias Weyand
+  date:
+    detail: Aug 29, 10:45 - 11:10 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Introduction to Artwork Recognition Challenge  
+  desc:
+    detail: Guangxing Han and Giorgos Tolias
+    link: 
+    host:
+  date:
+    detail: Aug 29, 11:10 - 11:25 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Introduction to Product Recognition Challenge  
+  desc:
+    detail: TBD
+    link: 
+    host:
+  date:
+    detail: Aug 29, 11:25 - 11:50 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Closing Remarks  
+  desc:
+    detail: Andre Araujo
+    link: 
+    host:
+  date:
+    detail: Aug 29, 11:50 - 12:00 UTC+1 
   icon: fa-microphone 
 
