@@ -12,12 +12,6 @@
   tpl: challenge.html
   css: challenge
 
-- id: Schedule
-  i18n: nav.Schedule
-  name: Schedule
-  tpl: schedule.html
-  css: timeline
-
 - id: Timetable
   i18n: nav.Timetable
   name: Timetable

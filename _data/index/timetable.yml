@@ -62,7 +62,7 @@
   icon: fa-microphone 
 
 - name:
-    detail: Introduction to Artwork Recognition Challenge  
+    detail: Introduction to Artwork Recognition  
   desc:
     detail: Guangxing Han and Giorgos Tolias
     link: 
@@ -72,7 +72,7 @@
   icon: fa-microphone 
 
 - name:
-    detail: Introduction to Product Recognition Challenge  
+    detail: Introduction to Product Retrieval  
   desc:
     detail: TBD
     link: 
