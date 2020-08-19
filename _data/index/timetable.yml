@@ -48,7 +48,7 @@
     link: 
     host: Ondrej Chum
   date:
-    detail: Aug 29, 10:00 - 10:45 UTC+1 
+    detail: Aug 28, 22:00 - 22:45 UTC+1 
   icon: fa-microphone 
 
 - name:
@@ -58,7 +58,7 @@
     link: 
     host: Tobias Weyand
   date:
-    detail: Aug 29, 10:45 - 11:10 UTC+1 
+    detail: Aug 28, 22:45 - 23:10 UTC+1 
   icon: fa-microphone 
 
 - name:
@@ -68,7 +68,7 @@
     link: 
     host:
   date:
-    detail: Aug 29, 11:10 - 11:25 UTC+1 
+    detail: Aug 28, 23:10 - 23:25 UTC+1 
   icon: fa-microphone 
 
 - name:
@@ -78,7 +78,7 @@
     link: 
     host:
   date:
-    detail: Aug 29, 11:25 - 11:50 UTC+1 
+    detail: Aug 28, 23:25 - 23:50 UTC+1 
   icon: fa-microphone 
 
 - name:
@@ -88,6 +88,6 @@
     link: 
     host:
   date:
-    detail: Aug 29, 11:50 - 12:00 UTC+1 
+    detail: Aug 28, 23:50 - Aug 29, 00:00 UTC+1 
   icon: fa-microphone 
 
