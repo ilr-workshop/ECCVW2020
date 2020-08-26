@@ -56,13 +56,13 @@
   desc:
     detail: Tobias Weyand, Bingyi Cao and Cam Askew
     link: 
-    host: Tobias Weyand
+    host:
   date:
     detail: Aug 28, 22:45 - 23:10 UTC+1 
   icon: fa-microphone 
 
 - name:
-    detail: Introduction to Artwork Recognition  
+    detail: Artwork Recognition  
   desc:
     detail: Guangxing Han and Giorgos Tolias
     link: 
@@ -72,7 +72,7 @@
   icon: fa-microphone 
 
 - name:
-    detail: Introduction to Product Retrieval  
+    detail: Product Retrieval  
   desc:
     detail: TBD
     link: 

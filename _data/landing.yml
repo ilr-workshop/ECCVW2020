@@ -8,7 +8,7 @@
 
 - id: Challenge
   i18n: nav.challenge
-  name: challenge
+  name: challenges
   tpl: challenge.html
   css: challenge
 

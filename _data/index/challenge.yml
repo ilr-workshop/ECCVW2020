@@ -4,25 +4,25 @@
 - name: Landmark Recognition
   i18n: Landmark_Recognition
   img: /static/assets/img/landing/landmark_recognition.png
-  desc: Label landmarks in image.
+  desc: Recognize landmarks in images.
   url: https://www.kaggle.com/c/landmark-recognition-2020
 
 - name: Landmark Retrieval
   i18n: Landmark_Retrieval
   img: /static/assets/img/landing/landmark_retrieval.png
-  desc: Given an image, can you find all of the same landmarks in a dataset?
+  desc: Retrieve relevant landmark images from a large-scale database.
   url: https://www.kaggle.com/c/landmark-retrieval-2020
 
 - name: Artwork Recognition
   i18n: Artwork_Recognition
   img: /static/assets/img/landing/artwork_recognition.png
-  desc: Recognize the artwork in photos.
+  desc: Recognize artworks in images.
   url: 
 
 - name: Product Retrieval
   i18n: Product_Retrieval
   img: /static/assets/img/landing/product_retrieval.png
-  desc: Given an image containing product, can you find all images of the product in a dataset?
+  desc: Retrieve relevant product images from a large-scale database.
   url: 
 
 
