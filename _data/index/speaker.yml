@@ -15,4 +15,5 @@
   img: /static/assets/img/landing/Luo.jpg
   desc: Associate Professor at the University of Hong Kong
   title: Instance Detection, Segmentation, Landmark Estimation and Beyond
-  abstract: 
+  abstract: This talk will cover three general topics of instance-level visual perception including fashion image understanding, whole-body human landmarks (face, hand and body keypoints) estimation, and instance detection and segmentation. First, we will introduce a new perspective of modelling object mask in the polar space by proposing PolarMask, which is an efficient single-stage instance segmentation pipeline. Secondly, we will introduce a new benchmark for full-body human landmark estimation that predicts key points of human face, hand and torso simultaneously. Thirdly, we will apply human segmentation and pose estimation for highly realistic fashion image generation.
+
