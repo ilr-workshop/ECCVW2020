@@ -8,7 +8,7 @@
   img: /static/assets/img/landing/Larlus.jpg
   desc: Senior Research Scientist at NAVER LABS Europe
   title: From Instance-Level to Semantic Image Retrieval
-  abstract: 
+  abstract: In the first part of the talk, we will move beyond instance-level retrieval and consider the task of semantic image retrieval in complex scenes, where the goal is to retrieve images that share the same semantics as the query image. Despite being more subjective and more complex, one can show that the task of semantically ranking visual scenes is consistently implemented across a pool of human annotators, and that suitable embedding spaces can be learnt for this task of semantic retrieval. The second part of the presentation will focus on cross-modal retrieval. More specifically, we will consider the problem of cross-modal fine-grained action retrieval between captions and videos. Cross-modal retrieval is commonly achieved through learning a shared embedding space that can indifferently embed modalities. In this part we will show how to enrich the embedding space by disentangling parts-of-speech (PoS) in the accompanying captions. 
 
 - name: Ping Luo
   i18n: Luo
