@@ -34,9 +34,9 @@
 - name:
     detail: Landmark Retrieval Challenge Winner Presentations  
   desc:
-    detail: TBD
+    detail: Teams keetar (#1), bysj (#2), Open Neural Network Exchange (#3).
     link: 
-    host:
+    host: Torsten Sattler and Bohyung Han
   date:
     detail: Aug 28, 15:25 - 16:00 UTC+1 
   icon: fa-microphone 
