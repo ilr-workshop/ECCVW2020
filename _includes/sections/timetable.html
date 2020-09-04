@@ -46,8 +46,11 @@
                         {% if timetable.desc.host %}
                         <span data-i18n="timetable.{{ timetable.desc.i18n }}">(Hosted by {{timetable.desc.host}})</span>
                         {% endif %}
-                        {% if timetable.desc.link %}
-                        <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.link}}" target="_blank">Link</a></span></p>
+                        {% if timetable.desc.video %}
+                        <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.video}}" target="_blank">Video</a></span></p>
+                        {% endif %}
+                        {% if timetable.desc.slides %}
+                        <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.slides}}" target="_blank">Slides</a></span></p>
                         {% endif %}
 
 

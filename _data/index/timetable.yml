@@ -4,7 +4,8 @@
     detail: Welcome Remarks 
   desc:
     detail: Andre Araujo
-    link: 
+    video: https://www.youtube.com/watch?v=GjlFhYOJ13Q
+    slides: https://drive.google.com/file/d/1f9VZW1gtxAohL_ApA-qdZkAklAB5cZ6t/view?usp=sharing
     host: 
   date:
     detail: Aug 28, 14:00 - 14:15 UTC+1 
@@ -15,7 +16,7 @@
   desc:
     detail: Ping Luo (Associate Professor, University of Hong Kong)
     title: Instance Detection, Segmentation, Landmark Estimation and Beyond
-    link: 
+    video: https://www.youtube.com/watch?v=VhuuUiqjxgM
     host: Jack Sim
   date:
     detail: Aug 28, 14:15 - 15:00 UTC+1 
@@ -25,7 +26,8 @@
     detail: Introduction to Landmark Retrieval Challenge  
   desc:
     detail: Tobias Weyand, Bingyi Cao and Cam Askew
-    link: 
+    video: https://www.youtube.com/watch?v=Xvg7sBw-aqA
+    slides: https://drive.google.com/file/d/1c_i5aeH8uOiuu1rmKmov3YmWlbmRPa78/view?usp=sharing
     host:
   date:
     detail: Aug 28, 15:00 - 15:25 UTC+1 
@@ -35,7 +37,7 @@
     detail: Landmark Retrieval Challenge Winner Presentations  
   desc:
     detail: Teams keetar (#1), bysj (#2), Open Neural Network Exchange (#5).
-    link: 
+    video: https://www.youtube.com/watch?v=SGruUUe6nuk
     host: Torsten Sattler and Bohyung Han
   date:
     detail: Aug 28, 15:25 - 16:00 UTC+1 
@@ -45,7 +47,7 @@
     detail: Invited Talk 2
   desc:
     detail: Diane Larlus (Senior Research Scientist, NAVER LABS Europe)
-    link: 
+    video: https://www.youtube.com/watch?v=-wMv3HlRUDc
     host: Ondrej Chum
   date:
     detail: Aug 28, 22:00 - 22:45 UTC+1 
@@ -55,7 +57,8 @@
     detail: Introduction to Landmark Recognition Challenge  
   desc:
     detail: Tobias Weyand, Bingyi Cao and Cam Askew
-    link: 
+    video: https://www.youtube.com/watch?v=oqu4EWHl-4Q
+    slides: https://drive.google.com/file/d/1xGwCNIaAY4qf3NwhfGrTLUlyiKigGAD8/view?usp=sharing
     host:
   date:
     detail: Aug 28, 22:45 - 23:10 UTC+1 
@@ -65,7 +68,7 @@
     detail: Artwork Recognition  
   desc:
     detail: Guangxing Han and Giorgos Tolias
-    link: 
+    video: https://www.youtube.com/watch?v=nPcLJqXtZ_s
     host:
   date:
     detail: Aug 28, 23:10 - 23:25 UTC+1 
@@ -75,7 +78,8 @@
     detail: Product Retrieval  
   desc:
     detail: Xu Zhang
-    link: 
+    video: https://www.youtube.com/watch?v=uxMdfZqym88
+    slides: https://drive.google.com/file/d/1SgSbVnvXLHKEhAjdlmQbwMWiC9HLl0DN/view?usp=sharing
     host:
   date:
     detail: Aug 28, 23:25 - 23:50 UTC+1 
@@ -85,7 +89,8 @@
     detail: Closing Remarks  
   desc:
     detail: Andre Araujo
-    link: 
+    video: https://www.youtube.com/watch?v=dFGcmVYU20A
+    slides: https://drive.google.com/file/d/16lVbzQxbAW-zqJAlsAozt_4uBn4XTLQ3/view?usp=sharing
     host:
   date:
     detail: Aug 28, 23:50 - Aug 29, 00:00 UTC+1 
