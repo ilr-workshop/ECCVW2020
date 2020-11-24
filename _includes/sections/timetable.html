@@ -50,7 +50,11 @@
                             <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.video}}" target="_blank">Video</a></span>
                         {% endif %}
                         {% if timetable.desc.slides %}
-                            <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy">, <a href="{{timetable.desc.slides}}" target="_blank">Slides</a></span></p>
+                            {% if timetable.desc.video %}
+                                <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy">, <a href="{{timetable.desc.slides}}" target="_blank">Slides</a></span></p>
+                            {% else %}
+                                <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.slides}}" target="_blank">Slides</a></span></p>
+                            {% endif %}
                         {% endif %}
 
 
