@@ -38,6 +38,7 @@
   desc:
     detail: Teams keetar (#1), bysj (#2), Open Neural Network Exchange (#5).
     video: https://www.youtube.com/watch?v=SGruUUe6nuk
+    slides: https://drive.google.com/file/d/1c_i5aeH8uOiuu1rmKmov3YmWlbmRPa78/view?usp=sharing
     host: Torsten Sattler and Bohyung Han
   date:
     detail: Aug 28, 15:25 - 16:00 UTC+1 
@@ -96,4 +97,12 @@
   date:
     detail: Aug 28, 23:50 - Aug 29, 00:00 UTC+1 
   icon: fa-microphone 
+
+- name:
+    detail: Landmark Recognition Challenge Winner Slides  
+  desc:
+    slides: https://drive.google.com/file/d/1KdchHhjz0A5ZofK8mWTy6jQPiS70KQlI/view?usp=sharing
+  date:
+    detail: Nov. 2020 
+  icon: fa-microphone
 
